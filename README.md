@@ -7,17 +7,18 @@ The proposed dataset includes 1,309 short text instances from Adobe Spark. The d
 ![Figure 1](rendered.jpg) Examples from our collected dataset, visualized through fonts with the highest annotation agreements.
 
 # Font Mappings: 
-source-sans-pro	F0
-blakely	F1
-ff-ernestine-pro	F2
-ff-market-web	F3
-bickham-script-pro-3	F4
-burbank-big	F5
-fresno	F6
-sneakers-script-narrow	F7
-felt-tip-roman	F8
-pauline	F9
 
+<br> Source-sans-pro	F0 
+<br> bBlakely	F1
+<br> FF-ernestine-pro	F2
+<br> ff-market-web	F3
+<br> Bickham-script-pro-3	F4
+<br> Burbank-big	F5
+<br> Fresno	F6
+<br> Sneakers-script-narrow	F7
+<br> Felt-tip-roman	F8
+<br> Pauline	F9
+<br>
 You can find all the 10 fonts bellow: ![bellow](fonts.png) 
 
 
