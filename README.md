@@ -8,18 +8,18 @@ The proposed dataset includes 1,309 short text instances from Adobe Spark. The d
 
 # Font Mappings: 
 
-<br> Source-sans-pro	F0 
-<br> bBlakely	F1
-<br> FF-ernestine-pro	F2
-<br> ff-market-web	F3
-<br> Bickham-script-pro-3	F4
-<br> Burbank-big	F5
-<br> Fresno	F6
-<br> Sneakers-script-narrow	F7
-<br> Felt-tip-roman	F8
-<br> Pauline	F9
+<br> F0: Source-sans-pro	 
+<br> F1: Blakely	
+<br> F2: FF-ernestine-pro	
+<br> F3: FF-market-web	
+<br> F4: Bickham-script-pro-3	
+<br> F5: Burbank-big	
+<br> F6: Fresno	
+<br> F7: Sneakers-script-narrow	
+<br> F8: Felt-tip-roman	
+<br> F9: Pauline
 <br>
-You can find all the 10 fonts bellow: ![bellow](fonts.png) 
+![bellow](fonts.png) 
 
 
 
