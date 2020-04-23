@@ -24,5 +24,5 @@ Examples from our collected dataset, visualized through fonts with the highest a
 <br>
 ![bellow](fonts.png)
 
-![Figure 1](rendered.jpg)
+![Figure 1](rendered.jpg){:height="50%" width="50%"}
 
