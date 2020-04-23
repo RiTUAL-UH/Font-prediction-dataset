@@ -5,7 +5,7 @@ This is a repository for the ACL 2020 paper: "Let Me Choose: From Verbal Context
 The proposed dataset includes 1,309 short text instances from Adobe Spark. The dataset is a collection of publicly available sample texts created by different designers. It covers a variety of topics found in posters, flyers, motivational quotes and advertisements.
 
 
-<img src="rendered.jpg" width="500"> 
+<center><img src="rendered.jpg" width="500"></center>
 
 Examples from our collected dataset, visualized through fonts with the highest annotation agreements.
 
@@ -24,5 +24,4 @@ Examples from our collected dataset, visualized through fonts with the highest a
 <br>
 ![bellow](fonts.png)
 
-![Figure 1](rendered.jpg){:height="50%" width="50%"}
 
