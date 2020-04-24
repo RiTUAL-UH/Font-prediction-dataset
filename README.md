@@ -11,9 +11,11 @@ Examples from our collected dataset, visualized through fonts with the highest a
 
 ### Data Format
 We are currently releasing annotated data in .csv files.  
+
+| First Header  | Second Header |
 | ------------- | ------------- |
-| #  | text | F0 | F1 | F2 |
-| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 ### Font Mappings
 
