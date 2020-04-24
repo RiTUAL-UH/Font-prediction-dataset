@@ -16,8 +16,7 @@ We are currently releasing annotated data in .csv files.
 
 
 ### Font Mappings
-
-<br> F0: Source-sans-pro	 
+F0: Source-sans-pro	 
 <br> F1: Blakely	
 <br> F2: FF-ernestine-pro	
 <br> F3: FF-market-web	
