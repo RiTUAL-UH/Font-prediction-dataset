@@ -30,3 +30,13 @@ F0: Source-sans-pro
 ![bellow](fonts.png)
 
 
+## Citation
+If you use the Font corpus in your publication, please cite this paper:
+```
+@inproceedings{shirani2020font,
+  title={Let Me Choose: From Verbal Context to Font Selection},
+  author={Shirani, Amirreza and Dernoncourt, Franck and Echevarria, Jose and Asente, Paul and Lipka, Nedim and Solorio, Thamar},
+  booktitle={Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics},
+  year={2020}
+}
+```
