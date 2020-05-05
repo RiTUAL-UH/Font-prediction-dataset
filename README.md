@@ -1,5 +1,5 @@
 # Font prediction dataset
-This is a repository for the ACL 2020 paper: "Let Me Choose: From Verbal Context to Font Selection"
+This is a repository for the ACL 2020 paper [Let Me Choose: From Verbal Context to Font Selection](https://arxiv.org/pdf/2005.01151.pdf).
 
 
 The proposed dataset includes 1,309 short text instances from Adobe Spark. The dataset is a collection of publicly available sample texts created by different designers. It covers a variety of topics found in posters, flyers, motivational quotes and advertisements.
@@ -31,7 +31,9 @@ F0: Source-sans-pro
 
 
 ## Citation
-If you use the Font corpus in your publication, please cite this paper:
+
+If you use the Font prediction dataset in your publication, please cite this [paper](https://arxiv.org/pdf/2005.01151.pdf):
+
 ```
 @inproceedings{shirani2020font,
   title={Let Me Choose: From Verbal Context to Font Selection},
